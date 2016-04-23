@@ -1,0 +1,17 @@
+{"_id":"110373943822540800","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"110462143152803840","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"116330241932263433","responses":{"welcome_message":"Welcome, %user! Please remember to read the <#169212928581435393>","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":true}}
+{"_id":"129489631539494912","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"138383398665322496","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"141367789490274304","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"147698382092238848","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"147840106751852544","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"148473446236422144","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"155839865240420352","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"157208037210324992","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"157246787147530241","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"167342320310681601","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"169735127583293441","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"41771983423143937","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"81384788765712384","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
+{"_id":"97060866763010048","responses":{"welcome_message":"default","no_permission_response":"default","nsfw_disallowed_response":"default"},"settings":{"welcoming":false}}
